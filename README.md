@@ -1,16 +1,14 @@
-### Hi there 👋
+# About Me 👋
 
-<!--
-**aliyuprof/aliyuprof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**aliyuprof** is a ✨ _Software Engineer_ ✨ and Data/Business intelligence analyst who is `passionate` about learning and solving Problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+The following are what I do:
+
+- 🌱 I’m currently learning Software Engineering at ALX and Zuri
+- 👯 I’m looking to collaborate on building a startup in the category of EdTech
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about: Programming, StartUp
+- 📫 How to reach me: Aliyuddeen5@gmail.com
+- 😄 Pronouns: He
+- ⚡ Fun fact: Reading/Football, and Public Speaking
